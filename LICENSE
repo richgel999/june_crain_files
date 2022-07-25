@@ -12,7 +12,8 @@ EXPRESS PERMISSION FROM JAMES E. CLARKSON IS PROHIBITED.
 
 Note this license covers the entire set of files and also each individual file, 
 if separated from the set. This license also covers resampled or otherwise image 
-processed variants of the image file scans in this repository.
+processed variants (grayscaled, and/or cropped, and/or rotated, or any other transform) 
+of the image file scans in this repository.
 
 * Contact Info 
 
